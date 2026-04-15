@@ -1,0 +1,6 @@
+{
+  "name": "SMS Pro - Student Management System",
+  "description": "A comprehensive production-ready Student Management System with Admin, Teacher, and Student portals, including attendance, exams, and fee management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Full-stack", "Mobile-ready", "RBAC"]
+}
